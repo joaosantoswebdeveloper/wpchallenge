@@ -1,0 +1,26 @@
+section.slider-thumbs {
+  .swiper-container {
+    .swiper-button {
+      height: 52px;
+      width: 52px;
+      background-color: #fefdfb;
+      border-radius: 50%;
+      box-shadow: 0 2px 4px 0 rgba(142, 144, 147, 0.3);
+      &.swiper-button:after {
+        content: "";
+      }
+    }
+  }
+}
+.swiper-button-prev,
+.swiper-button-next {
+  @apply transition-opacity duration-300;
+}
+
+.swiper-pagination  .swiper-pagination-bullet {
+  width: 32px;
+  height: 4px;
+  margin-right: 10px;
+  border-radius: 0;
+  background-color: #000;
+}

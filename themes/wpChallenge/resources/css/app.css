@@ -1,0 +1,22 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+@import "custom.css";
+
+@import "scss/header.scss";
+@import "scss/lazyblocks/slider.scss";
+@import "scss/lazyblocks/artigos.scss";
+@import "scss/lazyblocks/eventos.scss";
+
+
+h2 {
+    font-size: 26px;
+    line-height: 34px;
+}
+@media (min-width: 768px) {
+    h2 {
+        font-size: 32px;
+        font-weight: 900;
+    }
+}
