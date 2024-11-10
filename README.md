@@ -41,13 +41,13 @@ Plugin "Eventos":
 Página "Procurar":
 - Permite a procura por artigos através de uma barra de procura acessível no header de todas as páginas.
 
-
+---------------------
 Live website (demo):
-https:\\------.com
 Login Backoffice (demo):
+wpchallenge.wpdevcloud.com/wp-admin
 username:demoForWPChallenge
-password:---
-
+password:demoForWPChallenge
+---------------------
 
 Screenshots:
 
