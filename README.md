@@ -70,3 +70,5 @@ Backoffice:
 ![Screenshot from 2024-11-10 19-11-49](https://github.com/user-attachments/assets/bfdae6ff-76f8-4631-9918-41d836372554)
 ![Screenshot from 2024-11-10 19-11-39](https://github.com/user-attachments/assets/f22de152-8c56-4351-9557-09c392112e4c)
 
+Video (backoffice + frontend) [autoplay - Google chrome]:
+https://drive.google.com/file/d/1Jb81xfyUFGSIKj_2AxwLb-xrWdDCvtYR/view?usp=sharing
